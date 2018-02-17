@@ -11,7 +11,7 @@ namespace ExperimentOddsHelper.Controllers
     {
         private static string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Martin", "Ahlgren"
         };
 
         [HttpGet("[action]")]
